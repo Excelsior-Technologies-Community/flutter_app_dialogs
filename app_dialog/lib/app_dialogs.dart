@@ -1,3 +1,3 @@
 library app_dialogs;
 
-export 'src/app_dialog.dart';
+export 'src/app_dialog_widget.dart';

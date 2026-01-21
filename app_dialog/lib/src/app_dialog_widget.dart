@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class AppDialog extends StatelessWidget {
-  const AppDialog({
+class AppDialogWidget extends StatelessWidget {
+  const AppDialogWidget({
     super.key,
     required this.backgroundColor,
     required this.surfaceTintColor,
